@@ -32,4 +32,7 @@ https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC20/RateFreely.
 ## 1. Basics，标准代币，无任何机制
 https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC721/Basics.sol
 
+# ERC1155标准合约
+## 1. Basics，标准代币，无任何机制
+https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC1155/Basics.sol
 ### 区块链 Solidity 智能合约交流QQ群：646415507
