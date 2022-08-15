@@ -24,7 +24,6 @@ USDT 回流加池子，营销钱包，销毁
 买卖10%滑点，3%销毁，3%回流筑池（1.5%币、1.5%U），3%LP分红 DAPP实现，1%基金会（U到账）
 https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC20/AddUsdtLP.sol
 ## 6. RateFreely，自由设置买卖不同的手续费
-USDT 回流加池子，营销钱包，销毁
 买15%滑点，卖出5%滑点，分别流向不同的地址
 https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC20/RateFreely.sol
 
