@@ -1,4 +1,5 @@
 # Solidity 智能合约仓库
+# ERC20标准合约
 ## 1. Basics，标准代币，无任何机制
 https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC20/Basics.sol
 ## 2. HoldDividendBNB，持币分红 BNB
@@ -26,5 +27,9 @@ https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC20/AddUsdtLP.s
 ## 6. RateFreely，自由设置买卖不同的手续费
 买15%滑点，卖出5%滑点，分别流向不同的地址
 https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC20/RateFreely.sol
+
+# ERC721标准合约
+## 1. Basics，标准代币，无任何机制
+https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC721/Basics.sol
 
 ### 区块链 Solidity 智能合约交流QQ群：646415507
