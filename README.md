@@ -35,4 +35,13 @@ https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC721/Basics.sol
 # ERC1155标准合约
 ## 1. Basics，标准代币，无任何机制
 https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC1155/Basics.sol
+
+# 质押合约
+## 1. 质押代币奖励代币，推荐人分销奖励
+1. 向合约内质押token，奖励额度为质押数量的3倍，每天可提千分之三
+质押的币直接销毁
+2. 绑定推荐关系接口
+3. 获得推荐人产出数量的一定百分比提现额度 直推25%
+间接50%。扣除当前用户挖矿总额
+https://github.com/sdzczh/solidity-contract/blob/main/contract/Pledge/1.sol
 ### 区块链 Solidity 智能合约交流QQ群：646415507
