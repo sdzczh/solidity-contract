@@ -44,4 +44,13 @@ https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC1155/Basics.so
 3. 获得推荐人产出数量的一定百分比提现额度 直推25%
 间接50%。扣除当前用户挖矿总额
 https://github.com/sdzczh/solidity-contract/blob/main/contract/Pledge/1.sol
+
+# 其他合约
+## 1.create2合约
+使用工厂合约可以预测将要进行部署的合约的合约地址
+
+https://github.com/sdzczh/solidity-contract/blob/main/contract/Others/create2.sol
+
+
+
 ### 区块链 Solidity 智能合约交流QQ群：646415507
