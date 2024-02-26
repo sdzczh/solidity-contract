@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.0;
 
-import "./ERC404/ERC404.sol";
+import "./ERC404/P_ERC404.sol";
 import "@openzeppelin/contracts/utils/Strings.sol";
 
 contract Pandora is ERC404 {
