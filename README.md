@@ -51,6 +51,8 @@ https://github.com/sdzczh/solidity-contract/blob/main/contract/Pledge/1.sol
 
 https://github.com/sdzczh/solidity-contract/blob/main/contract/Others/create2.sol
 
+# ERC404合约
 
+https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC404/ERC404.sol
 
 ### 区块链 Solidity 智能合约交流QQ群：646415507
