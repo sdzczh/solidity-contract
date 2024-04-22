@@ -55,4 +55,11 @@ https://github.com/sdzczh/solidity-contract/blob/main/contract/Others/create2.so
 
 https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC404/ERC404.sol
 
+# ERC415协议
+1、标准协议
+向合约内转入平台币（ETH、BNB）获得代币，向合约内转入代币获得平台币（ETH、BNB）
+https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC415/ERC415.sol
+2、有分红和推荐人模式
+https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC415/rate.sol
+
 ### 区块链 Solidity 智能合约交流QQ群：646415507
