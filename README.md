@@ -27,6 +27,9 @@ https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC20/AddUsdtLP.s
 ## 6. RateFreely，自由设置买卖不同的手续费
 买15%滑点，卖出5%滑点，分别流向不同的地址
 https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC20/RateFreely.sol
+## 7.持币分红 
+持币分其他币（USDT、USDC等），不支持分本币，有黑名单、白名单 、销毁、营销钱包等功能 ，持币分红可以设置门槛
+https://github.com/sdzczh/solidity-contract/blob/main/contract/ERC20/HoldDividendToken.txt
 
 # ERC721标准合约
 ## 1. Basics，标准代币，无任何机制
